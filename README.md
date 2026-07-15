@@ -1,7 +1,7 @@
 # ✈️ FlightOps Analytics BR v1.2
 
 <p align="center">
-  <img src="assets/flightops-banner.png" alt="FlightOps Analytics BR" width="100%">
+  <img src="Radar_capa.png" alt="FlightOps Analytics BR" width="100%">
 </p>
 
 <p align="center">
