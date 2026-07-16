@@ -39,6 +39,8 @@ O sistema é capaz de:
 - gerar fonia operacional contextual;
 - reproduzir fonia utilizando voz sintetizada.
 
+<img width="1862" height="848" alt="Radar_1" src="https://github.com/user-attachments/assets/0fb7401f-bf83-47b8-b4eb-a3a85220edd1" />
+
 ---
 
 # Principais Funcionalidades
