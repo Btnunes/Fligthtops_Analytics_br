@@ -51,6 +51,9 @@ O sistema é capaz de:
 - Monitoramento de aeronaves sobre o território brasileiro;
 - Atualização automática das posições.
 
+- <img width="887" height="1079" alt="Radar_5_resumo_operacional" src="https://github.com/user-attachments/assets/09d23004-ac36-4de4-85cd-82bc9a5f08bc" />
+
+
 - <img width="1851" height="855" alt="Radar_4_vcp" src="https://github.com/user-attachments/assets/d5bc71be-f92c-4873-8954-1c652df95015" />
 
 
