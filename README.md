@@ -72,6 +72,8 @@ Integração com Open-Meteo:
 - condição meteorológica;
 - tradução automática dos códigos meteorológicos.
 
+<img width="1851" height="855" alt="Radar_4_vcp" src="https://github.com/user-attachments/assets/9afbbf39-8fb5-4a8b-8299-1502873cdfaf" />
+
 ---
 
 ## Inteligência Operacional
