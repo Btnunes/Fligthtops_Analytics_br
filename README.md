@@ -39,6 +39,9 @@ O sistema é capaz de:
 - gerar fonia operacional contextual;
 - reproduzir fonia utilizando voz sintetizada.
 
+<img width="1832" height="854" alt="Radar_3" src="https://github.com/user-attachments/assets/9f984809-45e3-49f7-822e-bc9a142769dc" />
+
+
 <img width="1862" height="848" alt="Radar_1" src="https://github.com/user-attachments/assets/0fb7401f-bf83-47b8-b4eb-a3a85220edd1" />
 
 ---
@@ -51,10 +54,10 @@ O sistema é capaz de:
 - Monitoramento de aeronaves sobre o território brasileiro;
 - Atualização automática das posições.
 
-- <img width="887" height="1079" alt="Radar_5_resumo_operacional" src="https://github.com/user-attachments/assets/09d23004-ac36-4de4-85cd-82bc9a5f08bc" />
+<img width="887" height="1079" alt="Radar_5_resumo_operacional" src="https://github.com/user-attachments/assets/09d23004-ac36-4de4-85cd-82bc9a5f08bc" />
 
 
-- <img width="1851" height="855" alt="Radar_4_vcp" src="https://github.com/user-attachments/assets/d5bc71be-f92c-4873-8954-1c652df95015" />
+<img width="1851" height="855" alt="Radar_4_vcp" src="https://github.com/user-attachments/assets/d5bc71be-f92c-4873-8954-1c652df95015" />
 
 
 ---
