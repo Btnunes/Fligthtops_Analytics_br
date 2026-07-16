@@ -99,6 +99,8 @@ Geração automática de diálogos entre:
 Exemplo:
 
 > 🎧 Centro Brasília, Azul dois oito uno dois, passando nível um zero zero, subindo para nível três seis zero.
+>
+> <img width="1920" height="912" alt="Radar_2_fonia" src="https://github.com/user-attachments/assets/0cc22935-2879-4589-bbda-e8e97b827fc4" />
 
 ---
 
